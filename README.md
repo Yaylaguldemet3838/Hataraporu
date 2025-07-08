@@ -61,4 +61,4 @@ Varsayımlar
 
 ***
 
-> Bu iki sorun kullanıcı deneyimini doğrudan etkiliyor. Gerekiyorsa test ortamında yeniden üretmem mümkün. Yardımcı olabilirseniz memnun olurum&#x20;
+> Bu iki sorun kullanıcı deneyimini doğrudan etkiliyor.  Yardımcı olabilirseniz memnun olurum&#x20;
