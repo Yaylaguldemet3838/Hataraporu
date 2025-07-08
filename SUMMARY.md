@@ -1,3 +1,3 @@
 # Table of contents
 
-* [Untitled](README.md)
+* [Hata raporu dokümente edilmiş](README.md)
